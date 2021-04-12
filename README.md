@@ -1,8 +1,41 @@
-# Selenium-Unit-Test
+# Selenium Web Automation
 
-Programing Language: Java
-
-Tools and Libraries: Maven, Selenium, Log4J, JUnit
+A basic unit test created with the Page Object Pattern. To start test build & run mainTest.java file.
 
 
-A basic unit test created with the Page Object Pattern
+## Dependencies & Tools
+
+Selenium (ver. 3.141.5)
+
+Log4J (ver. 2.14.1)
+
+JUnit (ver. 4.13.2)
+
+Maven
+
+
+## File Explorer
+
+    📁src
+      📁 main
+      📁 test
+         📁 java
+              📁 base
+                   📁 BasePage.java
+                   📁 BaseTest.java
+              📁 constants
+                   📁 ConstantsBasketPage.java
+                   📁 ConstantsHomepage.java
+                   📁 ConstantsLoginPage.java
+                   📁 ConstantsProductsPage.java
+                   📁 ConstantsSpecificProductPage.java
+              📁 models
+                   📁 user.java
+              📁 pages
+                   📁 BasketPage.java
+                   📁 HomePage.java
+                   📁 LoginPage.java
+                   📁 ProductsPage.java
+                   📁 SpecificProductPage.java
+              📁 test
+                   📁 mainTest.java
