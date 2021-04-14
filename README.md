@@ -9,7 +9,7 @@ Selenium (ver. 3.141.5)
 
 Log4J (ver. 2.14.1)
 
-JUnit (ver. 4.13.2)
+JUnit (ver. 4.13.2) (.jar)
 
 Maven
 
