@@ -5,13 +5,13 @@ A basic unit test created with the Page Object Pattern. To start test build & ru
 
 ## Dependencies & Tools
 
-Selenium (ver. 3.141.5)
+* Selenium (ver. 3.141.5)
 
-Log4J (ver. 2.14.1)
+* Log4J (ver. 2.14.1)
 
-JUnit (ver. 4.13.2) (.jar)
+* JUnit (ver. 4.13.2) (.jar)
 
-Maven
+* Maven
 
 
 ## File Explorer
