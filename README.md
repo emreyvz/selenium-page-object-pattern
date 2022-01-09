@@ -11,8 +11,6 @@ A basic web test that created with the Page Object Pattern. To start test build 
 
 * JUnit (ver. 4.13.2) (.jar)
 
-* Maven
-
 
 ## File Explorer
 
