@@ -1,6 +1,6 @@
 # Selenium Web Automation with Page Object Pattern
 
-A basic web test that created with the Page Object Pattern. To start test build & run mainTest.java file.
+A basic web automation that created with the Page Object Pattern. To start test, build & run mainTest.java file.
 
 
 ## Dependencies & Tools
